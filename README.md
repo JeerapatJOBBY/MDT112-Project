@@ -1,5 +1,5 @@
-# MDT112 Example Markdown File
-For MDT112 Student
+# MDT112 : 1. เครื่องให้อาหารแมวอัตโนมัติ
+# MDT112 : 2. เครื่องทำนายฝน
 
 
 ## สมาชิก
